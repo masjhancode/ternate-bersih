@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208539699343",
+    "project_id": "ternate-bersih",
+    "storage_bucket": "ternate-bersih.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208539699343:android:d45d61ccb7bb73811948fa",
+        "android_client_info": {
+          "package_name": "com.example.ternate_bersih_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSMlw_mVuUTrq6u6wYEY0pe3rFWD8p7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
